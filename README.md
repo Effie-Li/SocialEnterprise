@@ -1,6 +1,6 @@
 README
 
-This file contains descriptions for the R code of this project.
+This file contains descriptions for the R code of the project "Identifying Social Enterprise via the Lens of the Social Network".
 
 [crunchbase.r]
 Extracts investment activities via Crunchbase API and R library rcrunchbase. Need to register for Crunchbase API key first.
